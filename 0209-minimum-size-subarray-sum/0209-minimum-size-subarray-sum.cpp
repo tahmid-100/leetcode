@@ -9,29 +9,16 @@ public:
 
           int n=nums.size();
           
+           int j=0;
+          for(int i=0;i<n;i++){
+               sum=sum+nums[i];
 
-          for(int i=0;i<n;){
-
-            int j=i;
-            sum=0;
-                 while(sum<target && j<n){
+               while(sum>=target && j<=i){
+                   mincnt=min(mincnt,i-j+1);
+                   sum=sum-nums[j];
+                   j++;
                     
-                    sum+=nums[j];
-                    j++;
-                 }
-
-                 
-                 
-                 if(sum>=target){
-                    cout<<j-i<<"\n";
-                    mincnt=min(mincnt,j-i);  
-                    
-                    i++;
-
-                 }
-
-                 else  break;
-                         
+               }          
                           
           }
         return (mincnt == INT_MAX) ? 0 : mincnt;
