@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tahmid-100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/tahmid-100/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/tahmid-100/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tahmid-100/leetcode/tree/master/0706-design-hashmap) |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tahmid-100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tahmid-100/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
