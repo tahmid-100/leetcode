@@ -87,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tahmid-100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tahmid-100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tahmid-100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tahmid-100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
