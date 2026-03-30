@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tahmid-100/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tahmid-100/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1014-best-sightseeing-pair](https://github.com/tahmid-100/leetcode/tree/master/1014-best-sightseeing-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/tahmid-100/leetcode/tree/master/1014-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |
