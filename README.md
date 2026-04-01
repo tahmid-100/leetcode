@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tahmid-100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tahmid-100/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/tahmid-100/leetcode/tree/master/0257-binary-tree-paths) |
 ## Prefix Sum
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tahmid-100/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tahmid-100/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tahmid-100/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
