@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tahmid-100/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tahmid-100/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/tahmid-100/leetcode/tree/master/0994-rotting-oranges) |
 | [1014-best-sightseeing-pair](https://github.com/tahmid-100/leetcode/tree/master/1014-best-sightseeing-pair) |
 ## Hash Table
 |  |
@@ -142,9 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tahmid-100/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tahmid-100/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tahmid-100/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/tahmid-100/leetcode/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tahmid-100/leetcode/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/tahmid-100/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
