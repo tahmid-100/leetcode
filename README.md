@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tahmid-100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tahmid-100/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/tahmid-100/leetcode/tree/master/0257-binary-tree-paths) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/tahmid-100/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tahmid-100/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/tahmid-100/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/tahmid-100/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/tahmid-100/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/tahmid-100/leetcode/tree/master/0994-rotting-oranges) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/tahmid-100/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Bit Manipulation
 |  |
 | ------- |
