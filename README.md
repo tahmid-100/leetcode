@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tahmid-100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/tahmid-100/leetcode/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/tahmid-100/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tahmid-100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/tahmid-100/leetcode/tree/master/0542-01-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/tahmid-100/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/tahmid-100/leetcode/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
@@ -167,8 +169,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tahmid-100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/tahmid-100/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tahmid-100/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/tahmid-100/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
