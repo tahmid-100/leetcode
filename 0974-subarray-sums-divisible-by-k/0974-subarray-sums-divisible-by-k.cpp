@@ -1,27 +1,25 @@
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
-        vector<int>prefix;
+        map<int,int>countRemainder;
         int sum=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-           sum = (sum + nums[i]) % k;
+        int cnt=0;
+        countRemainder[0]=1;
 
-           if(sum<0) sum+=k;
-           prefix.push_back(sum);
+        for(int i=0;i<nums.size();i++){
+
+            sum+=nums[i];
+
+            int rem=((sum%k)+k)%k;
+
+            if(countRemainder.find(rem)!=countRemainder.end()){
+                cnt+=countRemainder[rem];
+            }
+
+            countRemainder[rem]++;
         }
 
-        map<int,int>mp;
-        mp[0]=1;
-
-        for(int i=0;i<prefix.size();i++){
-            mp[prefix[i]]++;
-        }
-          int res=0;
-        for(auto m:mp){
-            if(m.second >1) res+=((m.second)*(m.second-1)/2);
-        }
-        
-        return res;
+        return cnt;
+      
     }
 };
