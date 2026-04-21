@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/tahmid-100/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tahmid-100/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/tahmid-100/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tahmid-100/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tahmid-100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tahmid-100/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
 | [0528-random-pick-with-weight](https://github.com/tahmid-100/leetcode/tree/master/0528-random-pick-with-weight) |
 ## Randomized
 |  |
