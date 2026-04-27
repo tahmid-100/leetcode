@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tahmid-100/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/tahmid-100/leetcode/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tahmid-100/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tahmid-100/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/tahmid-100/leetcode/tree/master/0705-design-hashset) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/tahmid-100/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/tahmid-100/leetcode/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tahmid-100/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tahmid-100/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tahmid-100/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tahmid-100/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
