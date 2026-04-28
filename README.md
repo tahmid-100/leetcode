@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/tahmid-100/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/tahmid-100/leetcode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tahmid-100/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/tahmid-100/leetcode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/tahmid-100/leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tahmid-100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tahmid-100/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
