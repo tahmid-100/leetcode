@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/tahmid-100/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/tahmid-100/leetcode/tree/master/0542-01-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tahmid-100/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/tahmid-100/leetcode/tree/master/0528-random-pick-with-weight) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tahmid-100/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tahmid-100/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
