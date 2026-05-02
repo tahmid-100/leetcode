@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tahmid-100/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tahmid-100/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tahmid-100/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/tahmid-100/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/tahmid-100/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tahmid-100/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tahmid-100/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/tahmid-100/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/tahmid-100/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/tahmid-100/leetcode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
