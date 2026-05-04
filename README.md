@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tahmid-100/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tahmid-100/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/tahmid-100/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tahmid-100/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0523-continuous-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tahmid-100/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tahmid-100/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/tahmid-100/leetcode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tahmid-100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/tahmid-100/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tahmid-100/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/tahmid-100/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/tahmid-100/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/tahmid-100/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
