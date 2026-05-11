@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tahmid-100/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tahmid-100/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/tahmid-100/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/tahmid-100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/tahmid-100/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tahmid-100/leetcode/tree/master/0169-majority-element) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tahmid-100/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tahmid-100/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/tahmid-100/leetcode/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
